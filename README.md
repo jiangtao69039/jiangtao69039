@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 This is the place where I opensource stuff and cool things... (and assignments):rofl:
 
-- 🌱 I’m currently learning CS
+- 🌱 I’m currently focus on java sql parser.
 - 📫 How to reach me: [Email](mailto:jiangtao69039@gmail.com)
 
 ![bookyue's github stats](https://github-readme-stats.vercel.app/api?username=jiangtao69039&show_icons=true&hide_border=true)
