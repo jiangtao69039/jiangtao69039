@@ -20,4 +20,4 @@ This is the place where I opensource stuff and cool things... (and assignments):
 - 🌱 I’m currently focus on java sql parser.
 - 📫 How to reach me: [Email](mailto:jiangtao69039@gmail.com)
 
-![bookyue's github stats](https://github-readme-stats.vercel.app/api?username=jiangtao69039&show_icons=true&hide_border=true)
+![jiangtao's github stats](https://github-readme-stats.vercel.app/api?username=jiangtao69039&show_icons=true&hide_border=true)
