@@ -86,8 +86,8 @@ I am a software engineer focused on database middleware, SQL parser tooling, bac
 </a>
 </td>
 <td align="center" width="50%">
-<a href="https://github.com/apache/directory-fortress-core">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=apache&repo=directory-fortress-core&theme=tokyonight&hide_border=true" alt="apache/directory-fortress-core" />
+<a href="https://github.com/zsh-users/zsh-syntax-highlighting">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zsh-users&repo=zsh-syntax-highlighting&theme=tokyonight&hide_border=true" alt="zsh-users/zsh-syntax-highlighting" />
 </a>
 </td>
 </tr>
