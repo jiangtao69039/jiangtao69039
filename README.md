@@ -50,7 +50,40 @@ I am a software engineer focused on database middleware, SQL parser tooling, bac
 
 </div>
 
-## Featured Projects
+## 开源贡献
+
+<div align="center">
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/apache/shardingsphere">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=apache&repo=shardingsphere&theme=tokyonight&hide_border=true" alt="apache/shardingsphere" />
+</a>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/antlr/grammars-v4">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=antlr&repo=grammars-v4&theme=tokyonight&hide_border=true" alt="antlr/grammars-v4" />
+</a>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/microsoft/sqltoolsservice">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=sqltoolsservice&theme=tokyonight&hide_border=true" alt="microsoft/sqltoolsservice" />
+</a>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/oceanbase/oceanbase">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=oceanbase&repo=oceanbase&theme=tokyonight&hide_border=true" alt="oceanbase/oceanbase" />
+</a>
+</td>
+</tr>
+</table>
+
+</div>
+
+## 个人项目
 
 <div align="center">
 
@@ -76,39 +109,6 @@ I am a software engineer focused on database middleware, SQL parser tooling, bac
 <td align="center" width="50%">
 <a href="https://github.com/jiangtao69039/antlr4-runtime">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiangtao69039&repo=antlr4-runtime&theme=tokyonight&hide_border=true" alt="antlr4-runtime" />
-</a>
-</td>
-</tr>
-</table>
-
-</div>
-
-## Lab And Environment Tools
-
-<div align="center">
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-<a href="https://github.com/jiangtao69039/openldap_docker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiangtao69039&repo=openldap_docker&theme=tokyonight&hide_border=true" alt="openldap_docker" />
-</a>
-</td>
-<td align="center" width="50%">
-<a href="https://github.com/jiangtao69039/mysql_docker_replication">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiangtao69039&repo=mysql_docker_replication&theme=tokyonight&hide_border=true" alt="mysql_docker_replication" />
-</a>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-<a href="https://github.com/jiangtao69039/redis_environment_template">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiangtao69039&repo=redis_environment_template&theme=tokyonight&hide_border=true" alt="redis_environment_template" />
-</a>
-</td>
-<td align="center" width="50%">
-<a href="https://github.com/jiangtao69039/trino-https-docker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiangtao69039&repo=trino-https-docker&theme=tokyonight&hide_border=true" alt="trino-https-docker" />
 </a>
 </td>
 </tr>
