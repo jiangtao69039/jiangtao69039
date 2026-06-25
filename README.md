@@ -41,7 +41,7 @@ I am a software engineer focused on database middleware, SQL parser tooling, bac
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jiangtao69039&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jiangtao69039&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiangtao69039&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
 <br />
