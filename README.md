@@ -1,23 +1,137 @@
+<div align="center">
 
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Hi%2C+I%27m+jiangtao;Software+Engineer+%7C+Database+middleware;SQL+parser+%7C+Backend+systems+%7C+Dev+tools" alt="Typing SVG" />
 
-<!--
+<br />
 
-Here are some ideas to get you started:
+<a href="https://github.com/jiangtao69039?tab=followers"><img src="https://img.shields.io/github/followers/jiangtao69039?style=for-the-badge&logo=github&label=Followers&color=0ea5e9" alt="GitHub followers" /></a>
+<a href="https://github.com/jiangtao69039?tab=repositories"><img src="https://img.shields.io/badge/Open%20Source-Active-22c55e?style=for-the-badge&logo=github" alt="Open source" /></a>
+<img src="https://komarev.com/ghpvc/?username=jiangtao69039&style=for-the-badge&color=orange" alt="Profile views" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
 
-This is the place where I opensource stuff and cool things... (and assignments):rofl:
+## About Me
 
-- 🌱 I’m currently focus on java sql parser.
-- 📫 How to reach me: [Email](mailto:jiangtao69039@gmail.com)
+I am a software engineer focused on database middleware, SQL parser tooling, backend systems, and practical development environments.
 
-![jiangtao's github stats](https://github-readme-stats.vercel.app/api?username=jiangtao69039&show_icons=true&hide_border=true)
+- Currently working around Java SQL parser, database access control, database middleware, and engineering tools.
+- Building and maintaining projects for SQL parsing, database test environments, LDAP, Redis, MySQL, Trino, and Oracle-compatible workflows.
+- Interested in reliable backend services, developer productivity, data security, and AI-assisted knowledge workflows.
+- Reach me at [jiangtao69039@gmail.com](mailto:jiangtao69039@gmail.com).
+
+## Tech Stack
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C Sharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![ANTLR](https://img.shields.io/badge/ANTLR-9E7ACE?style=for-the-badge&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+</div>
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jiangtao69039&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiangtao69039&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=jiangtao69039&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+## Featured Projects
+
+<div align="center">
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/jiangtao69039/cloudquery">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiangtao69039&repo=cloudquery&theme=tokyonight&hide_border=true" alt="cloudquery" />
+</a>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/jiangtao69039/pg_parser_java">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiangtao69039&repo=pg_parser_java&theme=tokyonight&hide_border=true" alt="pg_parser_java" />
+</a>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/jiangtao69039/OracleSqlParserHttpService">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiangtao69039&repo=OracleSqlParserHttpService&theme=tokyonight&hide_border=true" alt="OracleSqlParserHttpService" />
+</a>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/jiangtao69039/antlr4-runtime">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiangtao69039&repo=antlr4-runtime&theme=tokyonight&hide_border=true" alt="antlr4-runtime" />
+</a>
+</td>
+</tr>
+</table>
+
+</div>
+
+## Lab And Environment Tools
+
+<div align="center">
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/jiangtao69039/openldap_docker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiangtao69039&repo=openldap_docker&theme=tokyonight&hide_border=true" alt="openldap_docker" />
+</a>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/jiangtao69039/mysql_docker_replication">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiangtao69039&repo=mysql_docker_replication&theme=tokyonight&hide_border=true" alt="mysql_docker_replication" />
+</a>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/jiangtao69039/redis_environment_template">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiangtao69039&repo=redis_environment_template&theme=tokyonight&hide_border=true" alt="redis_environment_template" />
+</a>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/jiangtao69039/trino-https-docker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiangtao69039&repo=trino-https-docker&theme=tokyonight&hide_border=true" alt="trino-https-docker" />
+</a>
+</td>
+</tr>
+</table>
+
+</div>
+
+## Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiangtao69039/jiangtao69039/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jiangtao69039/jiangtao69039/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/jiangtao69039/jiangtao69039/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+</picture>
+
+</div>
+
+## Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jiangtao69039&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
+
+</div>
