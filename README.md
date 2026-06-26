@@ -12,10 +12,10 @@
 
 ## 关于我
 
-我是一名软件工程师，主要关注数据库中间件、SQL 解析器工具、后端系统以及实用的开发环境。
+我是一名软件工程师，主要关注数据库中间件、后端系统和 AI 相关方向。
 
-- 目前主要从事 Java SQL 解析器、数据库访问控制、数据库中间件和工程工具相关工作。
-- 持续构建和维护 SQL 解析、数据库测试环境、LDAP、Redis、MySQL、Trino 以及 Oracle 兼容工作流相关项目。
+- 目前主要从事 CloudQuery 数据库安全管控平台开发。
+- CloudQuery：数据库安全管控平台，仓库地址：[jiangtao69039/cloudquery](https://github.com/jiangtao69039/cloudquery)，下载地址：[cloudquery.club](https://cloudquery.club/)。
 - 关注可靠的后端服务、开发者效率、数据安全和 AI 辅助知识工作流。
 - 可以通过 [jiangtao69039@gmail.com](mailto:jiangtao69039@gmail.com) 联系我。
 
