@@ -10,14 +10,14 @@
 
 </div>
 
-## About Me
+## 关于我
 
-I am a software engineer focused on database middleware, SQL parser tooling, backend systems, and practical development environments.
+我是一名软件工程师，主要关注数据库中间件、SQL 解析器工具、后端系统以及实用的开发环境。
 
-- Currently working around Java SQL parser, database access control, database middleware, and engineering tools.
-- Building and maintaining projects for SQL parsing, database test environments, LDAP, Redis, MySQL, Trino, and Oracle-compatible workflows.
-- Interested in reliable backend services, developer productivity, data security, and AI-assisted knowledge workflows.
-- Reach me at [jiangtao69039@gmail.com](mailto:jiangtao69039@gmail.com).
+- 目前主要从事 Java SQL 解析器、数据库访问控制、数据库中间件和工程工具相关工作。
+- 持续构建和维护 SQL 解析、数据库测试环境、LDAP、Redis、MySQL、Trino 以及 Oracle 兼容工作流相关项目。
+- 关注可靠的后端服务、开发者效率、数据安全和 AI 辅助知识工作流。
+- 可以通过 [jiangtao69039@gmail.com](mailto:jiangtao69039@gmail.com) 联系我。
 
 ## Tech Stack
 
