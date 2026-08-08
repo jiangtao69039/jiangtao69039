@@ -18,6 +18,7 @@
 - CloudQuery：数据库安全管控平台，仓库地址：[jiangtao69039/cloudquery](https://github.com/jiangtao69039/cloudquery)，下载地址：[cloudquery.club](https://cloudquery.club/)。
 - 关注可靠的后端服务、开发者效率、数据安全和 AI 辅助知识工作流。
 - 可以通过 [jiangtao69039@gmail.com](mailto:jiangtao69039@gmail.com) 联系我。
+- 联系方式：15658159690（微信）。
 
 ## Tech Stack
 
