@@ -41,8 +41,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jiangtao69039&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiangtao69039&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=jiangtao69039&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jiangtao69039&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
 <br />
 
@@ -58,36 +58,36 @@
 <tr>
 <td align="center" width="50%">
 <a href="https://github.com/apache/shardingsphere">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=apache&repo=shardingsphere&theme=tokyonight&hide_border=true" alt="apache/shardingsphere" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=apache&repo=shardingsphere&theme=tokyonight&hide_border=true" alt="apache/shardingsphere" />
 </a>
 </td>
 <td align="center" width="50%">
 <a href="https://github.com/antlr/grammars-v4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=antlr&repo=grammars-v4&theme=tokyonight&hide_border=true" alt="antlr/grammars-v4" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=antlr&repo=grammars-v4&theme=tokyonight&hide_border=true" alt="antlr/grammars-v4" />
 </a>
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
 <a href="https://github.com/microsoft/sqltoolsservice">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=sqltoolsservice&theme=tokyonight&hide_border=true" alt="microsoft/sqltoolsservice" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=microsoft&repo=sqltoolsservice&theme=tokyonight&hide_border=true" alt="microsoft/sqltoolsservice" />
 </a>
 </td>
 <td align="center" width="50%">
 <a href="https://github.com/oceanbase/oceanbase">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=oceanbase&repo=oceanbase&theme=tokyonight&hide_border=true" alt="oceanbase/oceanbase" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=oceanbase&repo=oceanbase&theme=tokyonight&hide_border=true" alt="oceanbase/oceanbase" />
 </a>
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
 <a href="https://github.com/apache/tomcat">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=apache&repo=tomcat&theme=tokyonight&hide_border=true" alt="apache/tomcat" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=apache&repo=tomcat&theme=tokyonight&hide_border=true" alt="apache/tomcat" />
 </a>
 </td>
 <td align="center" width="50%">
 <a href="https://github.com/zsh-users/zsh-syntax-highlighting">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zsh-users&repo=zsh-syntax-highlighting&theme=tokyonight&hide_border=true" alt="zsh-users/zsh-syntax-highlighting" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=zsh-users&repo=zsh-syntax-highlighting&theme=tokyonight&hide_border=true" alt="zsh-users/zsh-syntax-highlighting" />
 </a>
 </td>
 </tr>
@@ -103,24 +103,24 @@
 <tr>
 <td align="center" width="50%">
 <a href="https://github.com/jiangtao69039/cloudquery">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiangtao69039&repo=cloudquery&theme=tokyonight&hide_border=true" alt="cloudquery" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=jiangtao69039&repo=cloudquery&theme=tokyonight&hide_border=true" alt="cloudquery" />
 </a>
 </td>
 <td align="center" width="50%">
 <a href="https://github.com/jiangtao69039/pg_parser_java">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiangtao69039&repo=pg_parser_java&theme=tokyonight&hide_border=true" alt="pg_parser_java" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=jiangtao69039&repo=pg_parser_java&theme=tokyonight&hide_border=true" alt="pg_parser_java" />
 </a>
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
 <a href="https://github.com/jiangtao69039/OracleSqlParserHttpService">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiangtao69039&repo=OracleSqlParserHttpService&theme=tokyonight&hide_border=true" alt="OracleSqlParserHttpService" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=jiangtao69039&repo=OracleSqlParserHttpService&theme=tokyonight&hide_border=true" alt="OracleSqlParserHttpService" />
 </a>
 </td>
 <td align="center" width="50%">
 <a href="https://github.com/jiangtao69039/antlr4-runtime">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jiangtao69039&repo=antlr4-runtime&theme=tokyonight&hide_border=true" alt="antlr4-runtime" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=jiangtao69039&repo=antlr4-runtime&theme=tokyonight&hide_border=true" alt="antlr4-runtime" />
 </a>
 </td>
 </tr>
